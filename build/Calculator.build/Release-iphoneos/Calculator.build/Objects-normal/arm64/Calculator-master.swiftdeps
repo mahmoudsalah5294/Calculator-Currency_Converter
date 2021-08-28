@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "3012b06149d287ef7254afc3bfbf4259"
+build_time: [1625173838, 273937000]
+inputs:
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Currency Converter/CurrencyConverterVC.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/utility/Stack.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Calculator/CalculatorViewController.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/utility/MyAlert.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Currency Converter/DataSource.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Network/NetworkManager.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/Core/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/Core/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Network/EndPoints.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Currency Converter/CurrencyConverterPresenter.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Calculator/MyCustomCollectionViewCell.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/model/CurrencyConvertModel.swift": [9223372036, 854775807]
+  "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Currency Converter/Protocols.swift": [9223372036, 854775807]

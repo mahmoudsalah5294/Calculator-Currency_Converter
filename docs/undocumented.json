@@ -1,0 +1,19 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/Network/NetworkManager.swift",
+      "line": 10,
+      "symbol": "APIConnect",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/mahmoudmohamed/Documents/Swift/Calculator/Calculator/App/utility/MyAlert.swift",
+      "line": 11,
+      "symbol": "MyAlert",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/mahmoudmohamed/Documents/Swift/Calculator"
+}
